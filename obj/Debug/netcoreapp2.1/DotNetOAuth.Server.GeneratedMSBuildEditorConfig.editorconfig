@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DotNetOAuth.Server
+build_property.ProjectDir = C:\OneDrive\WorkflowApi\DotNetOAuth.Server\
